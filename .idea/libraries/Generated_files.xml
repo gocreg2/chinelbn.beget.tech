@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Generated files" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/public_html/local/templates/bxstore/js/jquery-3.6.0.min.min.js" />
+        <item url="file://$PROJECT_DIR$/public_html/local/templates/bxstore/js/myscripts.min.js" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/public_html/local/templates/bxstore/js/jquery-3.6.0.min.min.js" />
+      <root url="file://$PROJECT_DIR$/public_html/local/templates/bxstore/js/myscripts.min.js" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
